@@ -1,0 +1,17 @@
+
+        .BoughtMsg{
+            font-weight: bold;
+            color: red;
+            font-size: 1.2em;
+        }
+        li {
+            margin-block-end: 7px;
+            font-size: 1.2em;
+        }
+        li > button {
+            margin-inline-start: 6px;
+        }
+        button  {
+            color: green;
+        }
+    
